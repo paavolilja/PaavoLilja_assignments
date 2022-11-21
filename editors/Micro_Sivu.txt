@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <title></title>
+</head>
+<body>
+        <h1>Toka sivu</h1>
+        <p>Kuva galleria</p>
+        <img src="koodaus_meme1.jpg" alt="eka meemi">
+        <img src="koodaus_meme2.jpg" alt="toka meemi">
+</body>
+</html>
